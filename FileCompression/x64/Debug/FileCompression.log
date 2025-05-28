@@ -1,0 +1,5 @@
+﻿  Compress.cpp
+C:\Users\Administrator\Desktop\FileCompression\FileCompression\Compress.cpp(172,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  FileCompression.vcxproj -> C:\Users\Administrator\Desktop\FileCompression\x64\Debug\FileCompression.exe
